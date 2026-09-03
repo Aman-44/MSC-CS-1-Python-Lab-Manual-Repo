@@ -90,7 +90,7 @@ The practicals cover fundamental Python programming concepts, data structures, f
 
 To execute the programs, the following are required:
 
-* Python 3.x
+* Python 3.0
 * Any Python-compatible IDE or code editor
 
 Recommended editors:
