@@ -48,6 +48,16 @@ The practicals cover fundamental Python programming concepts, data structures, f
 | 19            | Python Program to Demonstrate Various Types of Methods                                                      |
 | 20(A)         | Python Program to Demonstrate Method Overloading by Adding Two and Three Numbers Using the Same Method Name |
 | 20(B)         | Python Program to Demonstrate Method Overriding Using Parent Class `Animal` and Child Class `Dog`           |
+| 21            | Python Program to Show Single Inheritance Using Classes `Animal` and `Dog`                                  |
+| 22            | Python Program to Demonstrate Various Forms of Inheritance                                                  |
+| 23            | Python Program to Handle Division by Zero Using `try` and `except`                                          |
+| 24            | Python Program to Handle Invalid Input Entered by the User                                                 |
+| 25            | Python Program to Use `try–except–else` Block                                                              |
+| 26            | Python Program to Use `try–except–finally` Block                                                           |
+| 27            | Python Program to Demonstrate the Use of Modules                                                           |
+| 28            | Python Program to Demonstrate the Use of File Handling                                                     |
+| 29            | Python Program to Demonstrate the Use of Various Modes of Files                                            |
+| 30            | Python Program to Demonstrate the Use of Regular Expression                                                |
 
 ---
 
@@ -83,6 +93,13 @@ The practicals cover fundamental Python programming concepts, data structures, f
 * Method Overloading
 * Method Overriding
 * Object-Oriented Programming
+* Inheritance
+* Exception Handling
+* `try–except–else` and `try–except–finally`
+* Modules
+* File Handling
+* File Modes
+* Regular Expressions
 
 ---
 
