@@ -12,7 +12,7 @@ Program: MSc Cybersecurity
 
 This repository contains the practical programs completed as part of the **Python Programming Lab** for the MSc Cybersecurity program.
 
-The practicals cover fundamental Python programming concepts, data structures, functions, arrays, strings, and Object-Oriented Programming concepts.
+The practicals cover fundamental Python programming concepts, data structures, functions, Object-Oriented Programming, inheritance, exception handling, modules, file handling, and regular expressions.
 
 ---
 
@@ -48,16 +48,23 @@ The practicals cover fundamental Python programming concepts, data structures, f
 | 19            | Python Program to Demonstrate Various Types of Methods                                                      |
 | 20(A)         | Python Program to Demonstrate Method Overloading by Adding Two and Three Numbers Using the Same Method Name |
 | 20(B)         | Python Program to Demonstrate Method Overriding Using Parent Class `Animal` and Child Class `Dog`           |
-| 21            | Python Program to Show Single Inheritance Using Classes `Animal` and `Dog`                                  |
-| 22            | Python Program to Demonstrate Various Forms of Inheritance                                                  |
-| 23            | Python Program to Handle Division by Zero Using `try` and `except`                                          |
-| 24            | Python Program to Handle Invalid Input Entered by the User                                                 |
-| 25            | Python Program to Use `try–except–else` Block                                                              |
-| 26            | Python Program to Use `try–except–finally` Block                                                           |
-| 27            | Python Program to Demonstrate the Use of Modules                                                           |
-| 28            | Python Program to Demonstrate the Use of File Handling                                                     |
-| 29            | Python Program to Demonstrate the Use of Various Modes of Files                                            |
-| 30            | Python Program to Demonstrate the Use of Regular Expression                                                |
+
+---
+
+# Unit 3 - Inheritance, Exception Handling, Modules, and File Handling
+
+| Practical No. | Practical                                                                                         |
+| ------------- | ------------------------------------------------------------------------------------------------- |
+| 21            | Python Program to Show Single Inheritance Using Classes `Animal` and `Dog`                        |
+| 22            | Python Program to Demonstrate Various Forms of Inheritance                                      |
+| 23            | Python Program to Handle Division by Zero Using `try` and `except`                               |
+| 24            | Python Program to Handle Invalid Input Entered by the User                                      |
+| 25            | Python Program to Use `try–except–else` Block                                                     |
+| 26            | Python Program to Use `try–except–finally` Block                                                  |
+| 27            | Python Program to Demonstrate the Use of Modules                                                 |
+| 28            | Python Program to Demonstrate the Use of File Handling                                           |
+| 29            | Python Program to Demonstrate the Use of Various Modes of Files                                  |
+| 30            | Python Program to Demonstrate the Use of Regular Expression                                     |
 
 ---
 
@@ -93,9 +100,16 @@ The practicals cover fundamental Python programming concepts, data structures, f
 * Method Overloading
 * Method Overriding
 * Object-Oriented Programming
+
+### Unit 3
+
 * Inheritance
+* Single Inheritance
+* Various Forms of Inheritance
 * Exception Handling
-* `try–except–else` and `try–except–finally`
+* `try–except`
+* `try–except–else`
+* `try–except–finally`
 * Modules
 * File Handling
 * File Modes
@@ -170,12 +184,16 @@ After completing these practicals, the following learning outcomes are achieved:
 * Understand different types of methods.
 * Demonstrate method overloading and method overriding.
 * Apply basic Object-Oriented Programming concepts using Python.
+* Implement different forms of inheritance.
+* Handle runtime errors using Python exception handling.
+* Use modules and perform basic file operations.
+* Apply regular expressions for pattern matching.
 
 ---
 
 ## Conclusion
 
-This repository contains the complete Python Programming Lab practicals covering **Python fundamentals, data structures, functions, and Object-Oriented Programming concepts**. The programs provide practical implementation of the concepts learned throughout the course.
+This repository contains the complete Python Programming Lab practicals covering **Python fundamentals, data structures, functions, Object-Oriented Programming, inheritance, exception handling, modules, file handling, and regular expressions**. The programs provide practical implementation of the concepts learned throughout the course.
 
 ---
 
